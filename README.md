@@ -1,3 +1,5 @@
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/51a4a69c-b885-4a88-ae7d-65472916c742" />
+
 # Snelli-Graphical-AVR-Miner
 Single-file Windows GUI miner for physical Duino-Coin AVR boards, with automatic device detection and live mining telemetry.
 
